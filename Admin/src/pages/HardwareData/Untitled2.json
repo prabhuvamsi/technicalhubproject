@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "softwareName": "AutoCAD",
+      "alias": "ACAD",
+      "version": "2023",
+      "serialNumber": "GHI789",
+      "purchaseDate": "2022-03-10",
+      "expirationDate": "2023-03-10",
+      "licenseType": "Commercial",
+      "description": "A commercial license for AutoCAD version 2023."
+    },
+    {
+      "id": 2,
+      "softwareName": "Catia",
+      "alias": "CATIA",
+      "version": "V5R28",
+      "serialNumber": "JKL012",
+      "purchaseDate": "2021-12-20",
+      "expirationDate": "2022-12-20",
+      "licenseType": "Educational",
+      "description": "An educational license for Catia version V5R28."
+    },
+    {
+      "id": 3,
+      "softwareName": "Ansys",
+      "alias": "ANSYS",
+      "version": "2022 R2",
+      "serialNumber": "MNO345",
+      "purchaseDate": "2022-02-15",
+      "expirationDate": "2023-02-15",
+      "licenseType": "Academic",
+      "description": "An academic license for Ansys version 2022 R2."
+    },
+    {
+      "id": 4,
+      "softwareName": "MATLAB",
+      "alias": "Matrix Laboratory",
+      "version": "R2023a",
+      "serialNumber": "PQR678",
+      "purchaseDate": "2022-05-01",
+      "expirationDate": "2023-05-01",
+      "licenseType": "Commercial",
+      "description": "A commercial license for MATLAB version R2023a."
+    },
+    {
+      "id": 5,
+      "softwareName": "SolidWorks",
+      "alias": "SW",
+      "version": "2022 SP5",
+      "serialNumber": "STU901",
+      "purchaseDate": "2022-01-15",
+      "expirationDate": "2023-01-15",
+      "licenseType": "Commercial",
+      "description": "A commercial license for SolidWorks version 2022 SP5."
+    },
+    {
+      "id": 6,
+      "softwareName": "Adobe Photoshop",
+      "alias": "PS",
+      "version": "CC 2023",
+      "serialNumber": "VWX234",
+      "purchaseDate": "2022-04-20",
+      "expirationDate": "2023-04-20",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Adobe Photoshop CC 2023."
+    },
+    {
+      "id": 7,
+      "softwareName": "Autodesk Maya",
+      "alias": "Maya",
+      "version": "2023",
+      "serialNumber": "XYZ345",
+      "purchaseDate": "2022-06-10",
+      "expirationDate": "2023-06-10",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Autodesk Maya version 2023."
+    },
+    {
+      "id": 8,
+      "softwareName": "Microsoft Office",
+      "alias": "Office",
+      "version": "Office 365",
+      "serialNumber": "ABC567",
+      "purchaseDate": "2022-03-25",
+      "expirationDate": "2023-03-25",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Microsoft Office 365."
+    },
+    {
+      "id": 9,
+      "softwareName": "Unity",
+      "alias": "Unity3D",
+      "version": "2022.1",
+      "serialNumber": "DEF678",
+      "purchaseDate": "2022-02-01",
+      "expirationDate": "2023-02-01",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Unity version 2022.1."
+    },
+    {
+      "id": 10,
+      "softwareName": "Autodesk 3ds Max",
+      "alias": "3ds Max",
+      "version": "2023",
+      "serialNumber": "GHI789",
+      "purchaseDate": "2022-07-15",
+      "expirationDate": "2023-07-15",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Autodesk 3ds Max version 2023."
+    },
+    {
+      "id": 11,
+      "softwareName": "Substance Painter",
+      "alias": "Painter",
+      "version": "2022.2",
+      "serialNumber": "JKL890",
+      "purchaseDate": "2022-08-20",
+      "expirationDate": "2023-08-20",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Substance Painter version 2022.2."
+    },
+    {
+      "id": 12,
+      "softwareName": "SketchUp Pro",
+      "alias": "SketchUp",
+      "version": "2023",
+      "serialNumber": "MNO901",
+      "purchaseDate": "2022-05-05",
+      "expirationDate": "2023-05-05",
+      "licenseType": "Commercial",
+      "description": "A commercial license for SketchUp Pro version 2023."
+    },
+    {
+      "id": 13,
+      "softwareName": "Blender",
+      "alias": "Blender 3D",
+      "version": "3.0",
+      "serialNumber": "PQR012",
+      "purchaseDate": "2022-09-10",
+      "expirationDate": "2023-09-10",
+      "licenseType": "Open Source",
+      "description": "An open-source license for Blender version 3.0."
+    },
+    {
+      "id": 14,
+      "softwareName": "ZBrush",
+      "alias": "ZBrushCore",
+      "version": "2023",
+      "serialNumber": "STU123",
+      "purchaseDate": "2022-10-15",
+      "expirationDate": "2023-10-15",
+      "licenseType": "Commercial",
+      "description": "A commercial license for ZBrush version 2023."
+    },
+    {
+      "id": 15,
+      "softwareName": "Final Cut Pro",
+      "alias": "FCP",
+      "version": "X",
+      "serialNumber": "VWX234",
+      "purchaseDate": "2022-11-20",
+      "expirationDate": "2023-11-20",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Final Cut Pro X."
+    },
+    {
+      "id": 16,
+      "softwareName": "Pro Tools",
+      "alias": "PT",
+      "version": "2023",
+      "serialNumber": "YZA345",
+      "purchaseDate": "2022-12-25",
+      "expirationDate": "2023-12-25",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Pro Tools version 2023."
+    },
+    {
+      "id": 17,
+      "softwareName": "AutoDesk Revit",
+      "alias": "Revit",
+      "version": "2023",
+      "serialNumber": "BCD456",
+      "purchaseDate": "2023-01-01",
+      "expirationDate": "2024-01-01",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Autodesk Revit version 2023."
+    },
+    {
+      "id": 18,
+      "softwareName": "Cinema 4D",
+      "alias": "C4D",
+      "version": "R25",
+      "serialNumber": "EFG567",
+      "purchaseDate": "2023-02-05",
+      "expirationDate": "2024-02-05",
+      "licenseType": "Commercial",
+      "description": "A commercial license for Cinema 4D version R25."
+    },
+    {
+      "id": 19,
+      "softwareName": "AutoDesk AutoCAD",
+      "alias": "AutoCAD",
+      "version": "2023",
+      "serialNumber": "GHI678",
+      "purchaseDate": "2022-03-10",
+      "expirationDate": "2023-03-10",
+      "licenseType": "Commercial",
+      "description": "A commercial license for AutoDesk AutoCAD version 2023."
+    },
+    {
+      "id": 20,
+      "softwareName": "Catia 5",
+      "alias": "Catia5",
+      "version": "V5R30",
+      "serialNumber": "JKL013",
+      "purchaseDate": "2021-12-25",
+      "expirationDate": "2022-12-25",
+      "licenseType": "Educational",
+      "description": "An educational license for Catia 5 version V5R30."
+    }
+  ]
+  
